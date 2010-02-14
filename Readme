@@ -1,0 +1,4 @@
+OpenCL.cpp - The source code to do vector addition using OpenCL
+CUDA.cu - The source code to do vector addition using CUDA
+timer.py - we used Python to compare the runtime of the two programs
+
